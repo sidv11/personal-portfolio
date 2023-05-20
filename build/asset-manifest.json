@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/siddhant.live/static/css/main.a34c92bf.css",
+    "main.js": "/siddhant.live/static/js/main.da28dadb.js",
+    "static/js/415.4d6acbeb.chunk.js": "/siddhant.live/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/siddhant.live/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.png": "/siddhant.live/static/media/logo.c37587b540e1d9833218.png",
+    "static/media/anti.png": "/siddhant.live/static/media/anti.77ec97aae46887c9240b.png",
+    "static/media/weather.png": "/siddhant.live/static/media/weather.5d689cd12a39bc3a48f9.png",
+    "static/media/home-main.svg": "/siddhant.live/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/siddhant.live/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/hospital.png": "/siddhant.live/static/media/hospital.da377b6a5d1ae9e3552e.png",
+    "static/media/chatify.png": "/siddhant.live/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.png": "/siddhant.live/static/media/avatar.7bcc95411a7ea6ee77d1.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/siddhant.live/static/media/Soumyajit_Behera-BIT_MESRA.bbcb2cb6b9e727b164f6.pdf",
+    "static/media/home-bg.jpg": "/siddhant.live/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/siddhant.live/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/siddhant.live/index.html",
+    "main.a34c92bf.css.map": "/siddhant.live/static/css/main.a34c92bf.css.map",
+    "main.da28dadb.js.map": "/siddhant.live/static/js/main.da28dadb.js.map",
+    "415.4d6acbeb.chunk.js.map": "/siddhant.live/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/siddhant.live/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34c92bf.css",
+    "static/js/main.da28dadb.js"
+  ]
+}
