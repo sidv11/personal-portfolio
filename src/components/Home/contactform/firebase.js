@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import 'firebase/compat/database';
+import 'firebase/database';
 import { getAnalytics } from "firebase/analytics";
 
 
