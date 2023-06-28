@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import anti from "../../Assets/Projects/anti.png";
 import weather from "../../Assets/Projects/weather.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import todo from "../../Assets/Projects/todo.png";
 import hospital from "../../Assets/Projects/hospital.png";
 
 
@@ -46,6 +46,16 @@ function Projects() {
               title="Anti-Virus"
               description="A simple antivirus software made in Python designed to detect and remove computer viruses and other malicious software.The software can also use virus definition databases to identify known malware and compare files against them. Once malware is detected, the antivirus software can quarantine or remove it to prevent further damage to the system. However, it may not offer the same level of comprehensive protection as commercial antivirus software that often comes with more advanced features and support."
               ghLink="https://github.com/sidv11/Antivirus-in-python"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todo}
+              isBlog={false}
+              title="To-Do List"
+              description="The To-Do is a user-friendly and efficient to-do list application designed to streamline task management. It offers a simple and intuitive interface, allowing users to easily create, organize, and prioritize their tasks."
+              ghLink="https://github.com/sidv11/To-Do-list"
+              demoLink="https://siddhant-to-dolist.netlify.app/"
             />
           </Col>
           
