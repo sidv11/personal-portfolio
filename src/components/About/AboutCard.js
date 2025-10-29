@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Siddhant Varma </span>
             from <span className="purple"> Latur, Maharashtra.</span>
-            <br />I am a student pursuing Bachelors in Computer Science Engineering in SGU Kolhapur.
+            <br />Computer Science Engineering graduate from Sanjay Ghodawat University with a strong base in software development.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
