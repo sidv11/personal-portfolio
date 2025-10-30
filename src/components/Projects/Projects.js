@@ -6,6 +6,9 @@ import anti from "../../Assets/Projects/anti.png";
 import weather from "../../Assets/Projects/weather.png";
 import todo from "../../Assets/Projects/todo.png";
 import hospital from "../../Assets/Projects/hospital.png";
+import bill from "../../Assets/Projects/bill.png";
+import pet from "../../Assets/Projects/pet.png";
+import web from "../../Assets/Projects/web.png"
 
 
 function Projects() {
@@ -58,6 +61,36 @@ function Projects() {
               demoLink="https://siddhant-to-dolist.netlify.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={bill} 
+    isBlog={false}
+    title="Tanvish Silver House – Billing System"
+    description="An advanced bullion billing software built using Electron, React, Redux, and Node.js. Handles gold/silver billing, purity calculations, customer records, real-time fine gold calculation, and PDF bill generation."
+    ghLink="https://github.com/sidv11/tanvish-silver-house" 
+  />
+</Col>
+          <Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={pet} 
+    isBlog={false}
+    title="Wiggles & Walk – Pet Care Website"
+    description="A beautiful and responsive website for pet boarding and pet care services. Includes service pages, booking form, reviews, gallery & contact section. Built with React and Tailwind."
+    ghLink="https://github.com/sidv11/wiggles-walk" 
+    demoLink="https://wiggleswalk.netlify.app/" 
+  />
+</Col>
+          <Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={web}
+    isBlog={false}
+    title="Website Templates Catalog"
+    description="A platform where I showcase and sell pre-built modern website templates for different business categories. Built with React and Tailwind, featuring responsive UI, product gallery, and inquiry form."
+    ghLink="https://github.com/sidv11/portfolio-landing-page-main" 
+    demoLink="https://siddhant11.netlify.app/" 
+  />
+</Col>
+          
           
         </Row>
       </Container>
