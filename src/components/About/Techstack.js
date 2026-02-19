@@ -12,17 +12,21 @@ import {
 import {
   SiFirebase,
   SiNextdotjs,
+  SiPostgresql,
+  SiMysql,
+  SiPandas, 
+  SiNumpy,
+  SiScikitlearn, 
+  SiPowerbi,
+  SiStreamlit,
+
+
 } from "react-icons/si";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-        <h6 className="name">
-          C++
-        </h6>
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
         <h6 className="name">
@@ -48,9 +52,9 @@ function Techstack() {
         </h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <SiMysql />
         <h6 className="name">
-          Next.js
+          SQL
         </h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -63,6 +67,30 @@ function Techstack() {
         <DiPython />
         <h6 className="name">
           Python
+        </h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPandas />
+        <h6 className="name">
+          Pandas
+        </h6>
+      </Col>     
+      <Col xs={4} md={2} className="tech-icons">
+        <SiScikitlearn />
+        <h6 className="name">
+          Scikit-Learn
+        </h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerbi />
+        <h6 className="name">
+          Power BI
+        </h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiStreamlit />
+        <h6 className="name">
+          Streamlit
         </h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
