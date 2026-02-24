@@ -13,7 +13,7 @@ function AboutCard() {
             <br />I’m a Computer Science Engineering graduate with a primary focus on Data Science and Artificial Intelligence, working on building data-driven and machine learning solutions for real-world problems. Alongside this, I have hands-on experience in full-stack development and software testing, which helps me build reliable and end-to-end systems.
             <br />
             <br />
-            Apart fro coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
