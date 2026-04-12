@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Siddhant Varma </span>
             from <span className="purple"> Pune, Maharashtra.</span>
-            <br />I’m  Computer Science Engineering graduate with a primary focus on Data Science and Artificial Intelligence, working on building data-driven and machine learning solutions for real-world problems. Alongside this, I have hands-on experience in full-stack development and software testing, which helps me build reliable and end-to-end systems.
+            <br />I’m a Computer Science Engineering graduate with a primary focus on Data Science and Artificial Intelligence, working on building data-driven and machine learning solutions for real-world problems. Alongside this, I have hands-on experience in full-stack development and software testing, which helps me build reliable and end-to-end systems.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
