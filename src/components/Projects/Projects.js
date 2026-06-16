@@ -90,6 +90,26 @@ function Projects() {
     demoLink="https://siddhant11.netlify.app/" 
   />
 </Col>
+    <Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={web}
+    isBlog={false}
+    title="Telecom Churn Prediction"
+    description="Machine Learning project that predicts customer churn using classification models, feature engineering, EDA, and an interactive Streamlit application."
+    ghLink="https://github.com/sidv11/telecom-customer-churn-prediction" 
+  />
+</Col>
+
+
+<Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={web}
+    isBlog={false}
+    title="Twitter Sentiment Analysis"
+    description="Deep Learning and NLP application that classifies tweets as Positive, Neutral, or Negative using a BiLSTM model with real-time Streamlit deployment."
+    ghLink="https://github.com/sidv11/twitter-sentiment-analysis" 
+  />
+</Col>
           
           
         </Row>
