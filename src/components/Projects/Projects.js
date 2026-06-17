@@ -9,6 +9,8 @@ import hospital from "../../Assets/Projects/hospital.png";
 import bill from "../../Assets/Projects/bill.png";
 import pet from "../../Assets/Projects/pet.png";
 import web from "../../Assets/Projects/web.png"
+import churn from "../../Assets/Projects/churn.png"
+import senti from "../../Assets/Projects/senti.png"
 
 
 function Projects() {
@@ -92,7 +94,7 @@ function Projects() {
 </Col>
     <Col md={4} className="project-card">
   <ProjectCard
-    imgPath={web}
+    imgPath={churn}
     isBlog={false}
     title="Telecom Churn Prediction"
     description="Machine Learning project that predicts customer churn using classification models, feature engineering, EDA, and an interactive Streamlit application."
@@ -103,7 +105,7 @@ function Projects() {
 
 <Col md={4} className="project-card">
   <ProjectCard
-    imgPath={web}
+    imgPath={senti}
     isBlog={false}
     title="Twitter Sentiment Analysis"
     description="Deep Learning and NLP application that classifies tweets as Positive, Neutral, or Negative using a BiLSTM model with real-time Streamlit deployment."
