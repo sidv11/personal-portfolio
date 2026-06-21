@@ -107,7 +107,7 @@ function Projects() {
   <ProjectCard
     imgPath={senti}
     isBlog={false}
-    title="Twitter Sentimen Analysis"
+    title="Twitter Sentiment Analysis"
     description="Deep Learning and NLP application that classifies tweets as Positive, Neutral, or Negative using a BiLSTM model with real-time Streamlit deployment."
     ghLink="https://github.com/sidv11/twitter-sentiment-analysis" 
   />
