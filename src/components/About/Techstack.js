@@ -69,18 +69,7 @@ function Techstack() {
           Python
         </h6>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPandas />
-        <h6 className="name">
-          Pandas
-        </h6>
-      </Col>     
-      <Col xs={4} md={2} className="tech-icons">
-        <SiScikitlearn />
-        <h6 className="name">
-          Scikit-Learn
-        </h6>
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <SiPowerbi />
         <h6 className="name">
