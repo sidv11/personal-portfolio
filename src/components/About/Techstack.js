@@ -8,6 +8,7 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  
 } from "react-icons/di";
 import {
   SiFirebase,
@@ -19,6 +20,7 @@ import {
   SiScikitlearn, 
   SiPowerbi,
   SiStreamlit,
+  
 
 
 } from "react-icons/si";
@@ -30,7 +32,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
         <h6 className="name">
-          Javascript
+          Javascrip
         </h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
