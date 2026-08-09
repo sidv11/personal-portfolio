@@ -75,7 +75,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiPowerbi />
         <h6 className="name">
-          Power BI
+          Poer BI
         </h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
